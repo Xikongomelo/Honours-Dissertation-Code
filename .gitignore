@@ -1,0 +1,23 @@
+
+# Private research data
+data/
+*.csv
+*.xlsx
+
+# Saved machine learning models
+*.pkl
+*.joblib
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
